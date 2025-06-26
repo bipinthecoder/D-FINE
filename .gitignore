@@ -4,3 +4,4 @@ weight/
 wandb/
 *.pth
 *.onnx
+src/data/COCO-Images-28-06-25/
